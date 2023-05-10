@@ -1,1 +1,2 @@
 feature 1 developed
+developed feature 2 from feature 1 on feature2 branch
